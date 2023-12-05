@@ -1,5 +1,57 @@
 # @huntabyte/primitives
 
+## 0.10.3
+
+### Patch Changes
+
+- Calendar & Range Calendar: add `initialFocus` prop to autofocus dates on mount ([#207](https://github.com/huntabyte/bits-ui/pull/207))
+
+## 0.10.2
+
+### Patch Changes
+
+- fix: calendar `data-selected` attribute ([#205](https://github.com/huntabyte/bits-ui/pull/205))
+
+## 0.10.1
+
+### Patch Changes
+
+- fix: Update `Builder` type to support all Melt UI builders ([#201](https://github.com/huntabyte/bits-ui/pull/201))
+
+## 0.10.0
+
+### Minor Changes
+
+- remove `arrowSize` prop from menu Root components in favor of passing it as a prop to the Arrow components ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+- New component: Date Range Picker ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+- feat: Calendar ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+- Breaking change: separate floating `positioning` props into individual props and move them to content components ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+- New components: Range Calendar, Date Field, Date Range Field ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+## 0.10.0-next.0
+
+### Minor Changes
+
+- remove `arrowSize` prop from menu Root components in favor of passing it as a prop to the Arrow components ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+- New component: Date Range Picker ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+- feat: Calendar ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+- Breaking change: separate floating `positioning` props into individual props and move them to content components ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+- New components: Range Calendar, Date Field, Date Range Field ([#184](https://github.com/huntabyte/bits-ui/pull/184))
+
+## 0.9.9
+
+### Patch Changes
+
+- fix: bug where menu `onChange` functions were being called before change ([#191](https://github.com/huntabyte/bits-ui/pull/191))
+
 ## 0.9.8
 
 ### Patch Changes
